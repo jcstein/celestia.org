@@ -329,7 +329,7 @@ export const teamMembers = [
         id : 28,
         name : 'Josh Stein',
         title: 'Developer Relations',
-        text: 'Former DevRel at Ankr & former Teaching Assistant at buildspace',
+        text: 'Former DevRel at Ankr & Teaching Assistant at buildspace',
         image: 'team/JoshStein.png',
         socials: {
             twitter : '',
