@@ -274,14 +274,14 @@ export const teamMembers = [
          }
      },{
         id : 25,
-        name : 'Rahul Ghangas',
-        title: 'Software Engineer',
-        text: 'Former backend engineer at Ren',
-        image: 'team/RahulGhangas.png',
+        name : 'Alex Beckett',
+        title: 'Marketing Lead',
+        text: '',
+        image: 'team/AlexBeckett.png',
         socials: {
-            twitter : '',
+            twitter : 'https://twitter.com/likebeckett',
             discord : '',
-            github : 'https://github.com/rahulghangas',
+            github : 'https://github.com/alex-beckett',
             email : '',
             linkedin : '',
          }
