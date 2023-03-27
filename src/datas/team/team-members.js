@@ -261,6 +261,19 @@ export const teamMembers = [
          }
      },{
         id : 25,
+        name : 'Alex Beckett',
+        title: 'Marketing Lead',
+        text: '',
+        image: 'team/AlexBeckett.png',
+        socials: {
+            twitter : 'https://twitter.com/likebeckett',
+            discord : '',
+            github : 'https://github.com/alex-beckett',
+            email : '',
+            linkedin : '',
+         }
+     },{
+        id : 26,
         name : 'Gabriel Blaut',
         title: 'Software Engineer',
         text: 'Hackathon Enjoyer',
@@ -273,7 +286,7 @@ export const teamMembers = [
             linkedin : '',
          }
      },{
-        id : 26,
+        id : 27,
         name : 'Mojtaba Eskandari',
         title: 'Software Engineer',
         text: 'Former software engineer at Tendermint',
@@ -286,7 +299,7 @@ export const teamMembers = [
             linkedin : '',
          }
      },{
-        id : 27,
+        id : 28,
         name : 'Matt Sevey',
         title: 'Director of Engineering',
         text: 'Former core developer of Sia and Skynet, Outdoor Enthusiast and Career Coach',
@@ -299,7 +312,7 @@ export const teamMembers = [
             linkedin : '',
          }
      },{
-        id : 28,
+        id : 29,
         name : 'Josh Stein',
         title: 'Solutions Engineer',
         text: 'Former DevRel at Ankr & Teaching Assistant at buildspace',
@@ -312,7 +325,7 @@ export const teamMembers = [
             linkedin : '',
          }
      },{
-        id : 29,
+        id : 30,
         name : 'Alina Loseva',
         title: 'Visual Artist',
         text: 'Explorer of the world',
@@ -325,7 +338,7 @@ export const teamMembers = [
             linkedin : '',
          }
      },{
-        id : 30,
+        id : 31,
         name : 'Mary Liu',
         title: 'Business Development Manager',
         text: 'Former Galaxy Digital FoF investor, Schwarzman Scholar, BA from Columbia',
@@ -338,7 +351,7 @@ export const teamMembers = [
             linkedin : 'https://www.linkedin.com/in/missmaryliu/',
          }
      },{
-        id : 31,
+        id : 32,
         name : 'Ganesha Upadhyaya',
         title: 'Senior Research Engineer',
         text: 'Former lead engineer at Harmony Protocol, MS & PhD in Compilers',
@@ -351,7 +364,7 @@ export const teamMembers = [
             linkedin : '',
          }
      },{
-        id : 32,
+        id : 33,
         name : 'Connor O Hara',
         title: 'Software Engineer',
         text: 'Cryptography and distributed systems enthusiast',
@@ -364,7 +377,7 @@ export const teamMembers = [
             linkedin : '',
          }
      },{
-        id : 33,
+        id : 34,
         name : 'Callum Waters',
         title: 'Software Engineer',
         text: 'Former lead engineer of the Tendermint consensus protocol. Chief instigator of deadlocks, race conditions and memory leaks.',
@@ -377,7 +390,7 @@ export const teamMembers = [
             linkedin : '',
          }
      },{
-        id : 34,
+        id : 35,
         name : 'Joseph Al-Chami',
         title: 'Product Manager',
         text: 'Former Product Manager at Figment',
@@ -390,7 +403,7 @@ export const teamMembers = [
             linkedin : '',
          }
      },{
-        id : 35,
+        id : 36,
         name : 'Eugenia Acosta',
         title: 'Product Manager',
         text: 'Former product marketing manager at Snap Inc. and Fit Analytics',
@@ -403,7 +416,7 @@ export const teamMembers = [
             linkedin : '',
          }
      },{
-        id : 36,
+        id : 37,
         name : 'Amy Yu',
         title: 'Operations Manager',
         text: 'Previously in the realm of esports. Now exploring the web3 frontier',
@@ -416,7 +429,7 @@ export const teamMembers = [
             linkedin : '',
          }
      },{
-        id : 37,
+        id : 38,
         name : 'Natalie Kubalova',
         title: 'DevRel Program Manager',
         text: 'Former Head of Relationships at DAO Maker, Namaste in Crypto',
@@ -429,7 +442,7 @@ export const teamMembers = [
             linkedin : '',
          }
      },{
-        id : 38,
+        id : 39,
         name : 'Diego Ferrer',
         title: 'Solutions Engineer',
         text: 'Former Smart Contract Engineer at Tessera, Celestia Modular Fellow',
@@ -442,7 +455,7 @@ export const teamMembers = [
             linkedin : '',
          }
      },{
-        id : 39,
+        id : 40,
         name : 'Javed Khan',
         title: 'Software Engineer',
         text: 'Former software engineer at Optimism, Handshake and Decred. Found DoS vulnerabilities in multiple cryptocurrencies: invdos.net',
@@ -455,7 +468,7 @@ export const teamMembers = [
             linkedin : '',
          }
      },{
-        id : 40,
+        id : 41,
         name : 'Sanaz Taheri',
         title: 'Senior Protocol Engineer',
         text: 'Ph.D. in computer science & engineering, specialized in cryptography, applied-cryptography and distributed systems and applications. Former protocol engineer at Status.im.',
@@ -468,7 +481,7 @@ export const teamMembers = [
             linkedin : '',
          }
      },{
-        id : 41,
+        id : 42,
         name : 'Jose Ramon Mañes',
         title: 'DevOps Engineer',
         text: 'Former SRE/DevOps at Kraken',
@@ -481,7 +494,7 @@ export const teamMembers = [
             linkedin : '',
          }
      },{
-        id : 42,
+        id : 43,
         name : 'Samuel Enderwitz',
         title: 'DevOps Engineer',
         text: 'DevOps enthusiast',
